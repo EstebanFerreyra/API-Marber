@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "P8/bmL+RaygVgV1OZBBHR6MuVlw5l5j7tovPOmFVzHS3k/ngRr5aIMlmBTlMx4yzqDGKYyt3z4bDnBHoDIw2wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tebig\\OneDrive\\Escritorio\\P III\\Marber-Api\\Interface\\Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tebig\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tebig\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tebig\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\tebig\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\tebig\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\tebig\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
